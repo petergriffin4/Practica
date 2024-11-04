@@ -1,0 +1,15 @@
+C:\Users\labc202\Documents\cerl\Practica3N\Practica3N\Practica3N\bin\Debug\Practica3N.exe.config
+C:\Users\labc202\Documents\cerl\Practica3N\Practica3N\Practica3N\bin\Debug\Practica3N.exe
+C:\Users\labc202\Documents\cerl\Practica3N\Practica3N\Practica3N\bin\Debug\Practica3N.pdb
+C:\Users\labc202\Documents\cerl\Practica3N\Practica3N\Practica3N\bin\Debug\MetroFramework.Design.dll
+C:\Users\labc202\Documents\cerl\Practica3N\Practica3N\Practica3N\bin\Debug\MetroFramework.dll
+C:\Users\labc202\Documents\cerl\Practica3N\Practica3N\Practica3N\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\labc202\Documents\cerl\Practica3N\Practica3N\Practica3N\obj\Debug\Practica3N.csproj.AssemblyReference.cache
+C:\Users\labc202\Documents\cerl\Practica3N\Practica3N\Practica3N\obj\Debug\Practica3N.csproj.SuggestedBindingRedirects.cache
+C:\Users\labc202\Documents\cerl\Practica3N\Practica3N\Practica3N\obj\Debug\Practica3N.Form1.resources
+C:\Users\labc202\Documents\cerl\Practica3N\Practica3N\Practica3N\obj\Debug\Practica3N.Properties.Resources.resources
+C:\Users\labc202\Documents\cerl\Practica3N\Practica3N\Practica3N\obj\Debug\Practica3N.csproj.GenerateResource.cache
+C:\Users\labc202\Documents\cerl\Practica3N\Practica3N\Practica3N\obj\Debug\Practica3N.csproj.CoreCompileInputs.cache
+C:\Users\labc202\Documents\cerl\Practica3N\Practica3N\Practica3N\obj\Debug\Practica3N.csproj.CopyComplete
+C:\Users\labc202\Documents\cerl\Practica3N\Practica3N\Practica3N\obj\Debug\Practica3N.exe
+C:\Users\labc202\Documents\cerl\Practica3N\Practica3N\Practica3N\obj\Debug\Practica3N.pdb
