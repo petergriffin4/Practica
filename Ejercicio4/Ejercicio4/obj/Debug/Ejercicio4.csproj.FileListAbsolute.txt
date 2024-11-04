@@ -1,0 +1,11 @@
+C:\Users\labc202\Documents\cerl\Practica4Ejercicio\Ejercicio4\Ejercicio4\bin\Debug\Ejercicio4.exe.config
+C:\Users\labc202\Documents\cerl\Practica4Ejercicio\Ejercicio4\Ejercicio4\bin\Debug\Ejercicio4.exe
+C:\Users\labc202\Documents\cerl\Practica4Ejercicio\Ejercicio4\Ejercicio4\bin\Debug\Ejercicio4.pdb
+C:\Users\labc202\Documents\cerl\Practica4Ejercicio\Ejercicio4\Ejercicio4\obj\Debug\Ejercicio4.csproj.AssemblyReference.cache
+C:\Users\labc202\Documents\cerl\Practica4Ejercicio\Ejercicio4\Ejercicio4\obj\Debug\Ejercicio4.csproj.SuggestedBindingRedirects.cache
+C:\Users\labc202\Documents\cerl\Practica4Ejercicio\Ejercicio4\Ejercicio4\obj\Debug\Ejercicio4.Form1.resources
+C:\Users\labc202\Documents\cerl\Practica4Ejercicio\Ejercicio4\Ejercicio4\obj\Debug\Ejercicio4.Properties.Resources.resources
+C:\Users\labc202\Documents\cerl\Practica4Ejercicio\Ejercicio4\Ejercicio4\obj\Debug\Ejercicio4.csproj.GenerateResource.cache
+C:\Users\labc202\Documents\cerl\Practica4Ejercicio\Ejercicio4\Ejercicio4\obj\Debug\Ejercicio4.csproj.CoreCompileInputs.cache
+C:\Users\labc202\Documents\cerl\Practica4Ejercicio\Ejercicio4\Ejercicio4\obj\Debug\Ejercicio4.exe
+C:\Users\labc202\Documents\cerl\Practica4Ejercicio\Ejercicio4\Ejercicio4\obj\Debug\Ejercicio4.pdb
